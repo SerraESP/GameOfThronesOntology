@@ -23,17 +23,6 @@ Author: Jesús Serrato Mata.</rdfs:comment>
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    
-
-
-    <!-- http://www.w3.org/2000/01/rdf-schema#comment -->
-
-    <rdf:Description rdf:about="http://www.w3.org/2000/01/rdf-schema#comment">
-        <rdfs:comment>Ontology about Game of thrones TV series.
-Author: Jesús Serrato Mata.</rdfs:comment>
-    </rdf:Description>
-    
-
 
     <!-- http://www.w3.org/2000/01/rdf-schema#sameAs -->
 
