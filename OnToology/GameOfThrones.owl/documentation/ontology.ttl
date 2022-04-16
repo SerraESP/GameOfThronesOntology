@@ -416,14 +416,6 @@ rdfs:sameAs rdf:type owl:AnnotationProperty .
 
 
 #################################################################
-#    Annotations
-#################################################################
-
-rdfs:comment rdfs:comment """Ontology about Game of thrones TV series.
-Author: Jesús Serrato Mata.""" .
-
-
-#################################################################
 #    General axioms
 #################################################################
 
